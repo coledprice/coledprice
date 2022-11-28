@@ -1,4 +1,4 @@
-### Hey, I'm Cole! 👋
+### Hey, I'm Cole Price! :man_technologist:
 
 <!--
 **coledprice/coledprice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
