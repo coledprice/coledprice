@@ -1,6 +1,6 @@
 ### Hey, I'm Cole Price! :man_technologist:
 ```ruby
-puts "I'm currently learning how to code from the coding bootcamp: Actualize" 
+puts "I'm a current graduate from the coding bootcamp: Actualize" 
 ```
 
 <!--
