@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slicetext=Hello)
 
 ### Hey, I'm Cole Price! :man_technologist:
 ```ruby
