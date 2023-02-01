@@ -9,7 +9,7 @@ puts "I'm a recent graduate from the coding bootcamp: Actualize"
 ```
 </br>
 
-#### :man_technologist: Some Tools I Have Used and Learned:
+### :man_technologist: Some Tools I Have Used and Learned:
 </br>
 
 <p align="left">
@@ -22,8 +22,9 @@ puts "I'm a recent graduate from the coding bootcamp: Actualize"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="php" width="25" height="25"/> PostgresSql &nbsp
  </br>
 </br>
+<hr>
 
- #### Let's Connect and have a Chat:
+### Let's Connect and have a Chat:
  
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="php" width="45" height="45"/>](https://www.linkedin.com/in/coledprice/)
   
