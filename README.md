@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There!%20🎣&fontSize=90&fontAlign=70&animation=twinkling&theme=tokyonight)
 
 
-### Hey, I'm Cole Price!
+
 ```ruby
+info = { first_name: "Cole", last_name: "Price", located_in: "Western North Carolina" }
+
 puts "I'm a recent graduate from the coding bootcamp: Actualize"
 ```
 </br>
