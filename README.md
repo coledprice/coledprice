@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
+
 ### Hey, I'm Cole Price! :man_technologist:
 ```ruby
 puts "I'm a current graduate from the coding bootcamp: Actualize" 
