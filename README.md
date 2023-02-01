@@ -8,7 +8,9 @@ info = { first_name: "Cole", last_name: "Price", located_in: "Western North Caro
 puts "I'm a recent graduate from the coding bootcamp: Actualize"
 ```
 </br>
-:man_technologist: Some Tools I Have Used and Learned:
+
+#### :man_technologist: Some Tools I Have Used and Learned:
+</br>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/> Vscode
@@ -21,7 +23,7 @@ puts "I'm a recent graduate from the coding bootcamp: Actualize"
  </br>
 </br>
 
- Let's Connect and have a Chat:
+ #### Let's Connect and have a Chat:
  
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="php" width="45" height="45"/>](https://www.linkedin.com/in/coledprice/)
   
