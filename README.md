@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There!%20🎣&fontSize=90&fontAlign=70&animation=twinkling&theme=tokyonight)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Cole+Price;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 
 ```ruby
