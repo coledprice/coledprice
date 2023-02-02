@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Cole+Price;Welcome+to+my+Github)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/Uv7l7BpJfuIxvh348D/giphy.gif" width="100" />[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Cole+Price;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 
 ```ruby
@@ -26,7 +26,7 @@ puts "I'm a recent graduate from the coding bootcamp: Actualize"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="php" width="25" height="25"/> React &nbsp
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="php" width="25" height="25"/> Bootstrap &nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="php" width="25" height="25"/> PostgresSql &nbsp
- </br>
+ <img src="https://media.giphy.com/media/U77S93hlpNMYhCqNDx/giphy.gif" width="100" /></br>
 </br>
 <hr>
 
@@ -40,7 +40,6 @@ puts "I'm a recent graduate from the coding bootcamp: Actualize"
 
 
 
-<img src="https://media.giphy.com/media/Uv7l7BpJfuIxvh348D/giphy.gif" width="200" /><img src="https://media.giphy.com/media/U77S93hlpNMYhCqNDx/giphy.gif" width="200" />
 
 
 <!--
