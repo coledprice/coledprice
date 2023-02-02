@@ -3,7 +3,7 @@
 
 
 
-<img src="https://media.giphy.com/media/Uv7l7BpJfuIxvh348D/giphy.gif" width="100" />[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Cole+Price;Welcome+to+my+Github)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/Uv7l7BpJfuIxvh348D/giphy.gif" width="100" /> &nbsp; &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Cole+Price;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 
 ```ruby
