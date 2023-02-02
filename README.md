@@ -9,6 +9,8 @@
 ```ruby
 info = { first_name: "Cole", last_name: "Price", located_in: "Western North Carolina" }
 
+hobbies = ["fishing", "skateboarding", "playng guitar", "hiking", "art", "video editing"]
+
 puts "I'm a recent graduate from the coding bootcamp: Actualize"
 ```
 </br>
