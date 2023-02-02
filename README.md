@@ -38,7 +38,9 @@ puts "I'm a recent graduate from the coding bootcamp: Actualize"
 </p>
 
 
-![image](https://media.giphy.com/media/Uv7l7BpJfuIxvh348D/giphy.gif)![image](https://media.giphy.com/media/U77S93hlpNMYhCqNDx/giphy.gif)
+
+
+<img src="https://media.giphy.com/media/Uv7l7BpJfuIxvh348D/giphy.gif" width="200" /><img src="https://media.giphy.com/media/U77S93hlpNMYhCqNDx/giphy.gif" width="200" />
 
 
 <!--
