@@ -27,13 +27,13 @@ puts "I'm a recent graduate from the coding bootcamp: Actualize"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="php" width="25" height="25"/> React &nbsp
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="php" width="25" height="25"/> Bootstrap &nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="php" width="25" height="25"/> PostgresSql &nbsp
- <img src="https://media.tenor.com/DjU4S2KO860AAAAi/radio-dance.gif" width="100" /></br>
+ <img src="https://media.tenor.com/1XKmh3_--MYAAAAi/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9%D8%B5%D9%84%D8%A7%D8%AD%D8%A7%D8%AD%D9%85%D8%AF%D8%AD%D9%85%D8%B2%D8%A9%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81.gif" width="100" /></br>
 </br>
 <hr>
 
 ### Let's Connect and have a Chat:
  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="php" width="45" height="45"/>](https://www.linkedin.com/in/coledprice/) &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/jS8lohSVzAeXXkC1Rv/giphy.gif" width="100" />
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="php" width="45" height="45"/>](https://www.linkedin.com/in/coledprice/) &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media.tenor.com/DFaU28XNGQoAAAAi/hacking-computer.gif" width="100" />
   
 
 </p>
