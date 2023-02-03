@@ -26,7 +26,7 @@ puts "I'm a recent graduate from the coding bootcamp: Actualize"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="php" width="25" height="25"/> JavaScript &nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="php" width="25" height="25"/> React &nbsp
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="php" width="25" height="25"/> Bootstrap &nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="php" width="25" height="25"/> PostgresSql &nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="php" width="25" height="25"/> PostgresSql &nbsp &nbsp &nbsp &nbsp
  <img src="https://media.tenor.com/1XKmh3_--MYAAAAi/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9%D8%B5%D9%84%D8%A7%D8%AD%D8%A7%D8%AD%D9%85%D8%AF%D8%AD%D9%85%D8%B2%D8%A9%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81.gif" width="100" /></br>
 </br>
 <hr>
