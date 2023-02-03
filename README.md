@@ -33,7 +33,7 @@ puts "I'm a recent graduate from the coding bootcamp: Actualize"
 
 ### Let's Connect and have a Chat:
  
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="php" width="45" height="45"/>](https://www.linkedin.com/in/coledprice/) &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media.tenor.com/DFaU28XNGQoAAAAi/hacking-computer.gif" width="100" />
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="php" width="80" height="80"/>](https://www.linkedin.com/in/coledprice/) &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media.tenor.com/DFaU28XNGQoAAAAi/hacking-computer.gif" width="100" />
   
 
 </p>
